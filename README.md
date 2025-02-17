@@ -39,6 +39,3 @@ Feel free to fork this repository and submit a pull request if you have improvem
 2. Make your changes in a separate branch.
 3. Submit a Pull Request with a detailed description of your changes.
 
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
